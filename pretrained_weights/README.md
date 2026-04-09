@@ -1,0 +1,1 @@
+This README only serves as dummy such that *git submodule init* works as intended.
