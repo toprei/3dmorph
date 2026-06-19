@@ -66,7 +66,7 @@ def main():
 
     # Load assets from work directory
     example_name = "car-luggage-rack"  # TODO: Pick an example from assets/example_objects
-    work_dir = f"assets/example_objects{example_name}"
+    work_dir = f"assets/example_objects/{example_name}"
     assets = prepare_assets(work_dir)
 
     # Run inpainting pipeline
